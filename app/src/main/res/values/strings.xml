@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Film Indonesia</string>
+
+    <string-array name="judul_film">
+        <item>Danur</item>
+        <item>Dua Garis Biru</item>
+        <item>Single</item>
+        <item>Modus</item>
+        <item>Gundala</item>
+    </string-array>
+
+    <string-array name="deskripsi">
+        <item>Film Hantu</item>
+        <item>Film Remaja</item>
+        <item>Film Remaja</item>
+        <item>Film Remaja</item>
+        <item>Film Action</item>
+    </string-array>
+</resources>
